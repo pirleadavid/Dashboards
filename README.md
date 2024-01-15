@@ -1,1 +1,1 @@
-Tutti le rappresentazione grafiche sono state create con PowerBI. Tutti i set di dati sono stati creati personalmente da me e/o generati casualmente e/o presi da set di dati già esistenti su internet; non sono inerenti a fatti, persone, progetti... reali
+Tutti le rappresentazioni sono state create con PowerBI. Tutti i set di dati sono stati creati personalmente da me e/o generati casualmente e/o presi da set di dati già esistenti su internet; non sono inerenti a fatti, persone, progetti... reali
